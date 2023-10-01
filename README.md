@@ -1,7 +1,7 @@
 
 # WordPress QR Code Generator Plugin || Qrify
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1920px-QR_code_for_mobile_English_Wikipedia.svg.png" alt="QR Code" height="200" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1920px-QR_code_for_mobile_English_Wikipedia.svg.png" alt="QR Code" height="400" width="400">
 
 
 ## Description
