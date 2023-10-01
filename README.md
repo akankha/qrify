@@ -19,7 +19,7 @@ The WordPress QR Code Generator Plugin is a versatile tool that allows website a
 
 ## Installation
 
-1. Download the plugin ZIP file .
+1. Download the plugin ZIP file.
 
 2. Upload the ZIP file via the WordPress Admin Dashboard by navigating to "Plugins" -> "Add New" -> "Upload Plugin."
 
@@ -41,7 +41,7 @@ The WordPress QR Code Generator Plugin is a versatile tool that allows website a
 
 ## Configuration
 
-You can configure the plugin's settings by navigating to "Settings" -> "QR Code Generator" in the WordPress Admin Dashboard. Here, you can customize the default dimensions for QR codes and enable tracking features if needed.
+You can configure the plugin's settings by navigating to "Settings" -> "Qrify" in the WordPress Admin Dashboard. Here, you can customize the default dimensions for QR codes and enable tracking features if needed.
 
 ## Support
 
